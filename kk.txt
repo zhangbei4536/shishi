@@ -1,4 +1,4 @@
 qwerdf
 http://www.cnblogs.com/zlxbky/p/7727895.html
 
-git pull -u origin master 这算是强势提交
+这算是强势提交
